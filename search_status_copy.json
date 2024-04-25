@@ -1,0 +1,25 @@
+{
+    "date": null,
+    "current_status": null,
+    "VM_status": null,
+    "VM_name": "VM 005",
+    "open_browser": 0,
+    "no_of_searches": 35,
+    "show_rewards_page": 0,
+    "take_screenshot": 1,
+    "search_links": [
+        "https://rewards.bing.com"
+    ],
+    "completed_VMs": [
+
+    ],
+
+    "error_VMs": [
+        "VM 043",
+        "VM 018",
+        "VM 030",
+        "VM 015"
+    ],
+
+    "cooldown_iteration": 0
+}

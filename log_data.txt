@@ -1,0 +1,888 @@
+2024-04-23
+
+completed normal 90 VM 001 time taken 440
+completed normal 90 VM 008 time taken 480
+completed normal 90 VM 026 time taken 460
+completed normal 90 VM 027 time taken 460
+completed normal 90 VM 028 time taken 440
+completed normal 90 VM 033 time taken 450
+completed normal 90 VM 034 time taken 480
+completed normal 90 VM 036 time taken 460
+completed normal 90 VM 040 time taken 460
+completed normal 90 VM 049 time taken 460
+cooldowm 90 iteration 0 VM 002 time taken 70
+cooldowm 90 iteration 0 VM 003 time taken 60
+cooldowm 90 iteration 0 VM 004 time taken 60
+cooldowm 90 iteration 0 VM 005 time taken 60
+cooldowm 90 iteration 0 VM 006 time taken 50
+cooldowm 90 iteration 0 VM 007 time taken 60
+cooldowm 90 iteration 0 VM 009 time taken 60
+cooldowm 90 iteration 0 VM 010 time taken 60
+cooldowm 90 iteration 0 VM 011 Base time taken 60
+cooldowm 90 iteration 0 VM 012 time taken 70
+cooldowm 90 iteration 0 VM 013 time taken 60
+cooldowm 90 iteration 0 VM 014 time taken 70
+cooldowm 90 iteration 0 VM 015 time taken 60
+cooldowm 90 iteration 0 VM 016 time taken 70
+cooldowm 90 iteration 0 VM 017 time taken 70
+cooldowm 90 iteration 0 VM 018 time taken 70
+cooldowm 90 iteration 0 VM 019 time taken 60
+cooldowm 90 iteration 0 VM 020 time taken 60
+cooldowm 90 iteration 0 VM 021 time taken 60
+cooldowm 90 iteration 0 VM 023 time taken 70
+cooldowm 90 iteration 0 VM 024 time taken 60
+cooldowm 90 iteration 0 VM 025 time taken 70
+cooldowm 90 iteration 0 VM 029 time taken 70
+cooldowm 90 iteration 0 VM 030 time taken 70
+cooldowm 90 iteration 0 VM 031 time taken 70
+cooldowm 90 iteration 0 VM 032 time taken 70
+cooldowm 90 iteration 0 VM 035 time taken 60
+cooldowm 90 iteration 0 VM 037 time taken 70
+cooldowm 90 iteration 0 VM 038 time taken 60
+cooldowm 90 iteration 0 VM 039 time taken 60
+cooldowm 90 iteration 0 VM 041 time taken 60
+cooldowm 90 iteration 0 VM 042 time taken 60
+cooldowm 90 iteration 0 VM 043 time taken 70
+cooldowm 90 iteration 0 VM 044 time taken 70
+cooldowm 90 iteration 0 VM 045 time taken 60
+cooldowm 90 iteration 0 VM 046 time taken 60
+cooldowm 90 iteration 0 VM 047 time taken 60
+cooldowm 90 iteration 0 VM 048 time taken 60
+cooldowm 90 iteration 0 VM 050 time taken 60
+completed cooldown iteration 0
+cooldowm 90 iteration 1 VM 003 time taken 60
+cooldowm 90 iteration 1 VM 004 time taken 60
+cooldowm 90 iteration 1 VM 005 time taken 70
+cooldowm 90 iteration 1 VM 006 time taken 60
+cooldowm 90 iteration 1 VM 007 time taken 60
+cooldowm 90 iteration 1 VM 009 time taken 70
+cooldowm 90 iteration 1 VM 010 time taken 60
+cooldowm 90 iteration 1 VM 011 Base time taken 60
+cooldowm 90 iteration 1 VM 012 time taken 60
+cooldowm 90 iteration 1 VM 013 time taken 70
+cooldowm 90 iteration 1 VM 014 time taken 70
+cooldowm 90 iteration 1 VM 015 time taken 70
+cooldowm 90 iteration 1 VM 016 time taken 60
+cooldowm 90 iteration 1 VM 017 time taken 60
+cooldowm 90 iteration 1 VM 018 time taken 60
+cooldowm 90 iteration 1 VM 019 time taken 60
+cooldowm 90 iteration 1 VM 020 time taken 60
+cooldowm 90 iteration 1 VM 021 time taken 60
+cooldowm 90 iteration 1 VM 023 time taken 60
+cooldowm 90 iteration 1 VM 024 time taken 70
+cooldowm 90 iteration 1 VM 025 time taken 60
+cooldowm 90 iteration 1 VM 029 time taken 60
+cooldowm 90 iteration 1 VM 030 time taken 70
+cooldowm 90 iteration 1 VM 031 time taken 70
+cooldowm 90 iteration 1 VM 032 time taken 60
+Error running VM 035
+cooldowm 90 iteration 1 VM 037 time taken 70
+cooldowm 90 iteration 1 VM 038 time taken 60
+cooldowm 90 iteration 1 VM 039 time taken 60
+cooldowm 90 iteration 1 VM 041 time taken 60
+cooldowm 90 iteration 1 VM 042 time taken 60
+cooldowm 90 iteration 1 VM 043 time taken 80
+cooldowm 90 iteration 1 VM 044 time taken 70
+cooldowm 90 iteration 1 VM 045 time taken 70
+cooldowm 90 iteration 1 VM 046 time taken 70
+cooldowm 90 iteration 1 VM 047 time taken 70
+cooldowm 90 iteration 1 VM 048 time taken 60
+cooldowm 90 iteration 1 VM 050 time taken 50
+completed cooldown iteration 1
+cooldowm 90 iteration 2 VM 002 time taken 60
+cooldowm 90 iteration 2 VM 003 time taken 70
+cooldowm 90 iteration 2 VM 004 time taken 60
+cooldowm 90 iteration 2 VM 005 time taken 70
+cooldowm 90 iteration 2 VM 006 time taken 60
+cooldowm 90 iteration 2 VM 007 time taken 60
+cooldowm 90 iteration 2 VM 009 time taken 50
+cooldowm 90 iteration 2 VM 010 time taken 60
+cooldowm 90 iteration 2 VM 011 Base time taken 70
+cooldowm 90 iteration 2 VM 012 time taken 50
+cooldowm 90 iteration 2 VM 013 time taken 60
+cooldowm 90 iteration 2 VM 014 time taken 70
+cooldowm 90 iteration 2 VM 015 time taken 60
+cooldowm 90 iteration 2 VM 016 time taken 70
+cooldowm 90 iteration 2 VM 017 time taken 70
+cooldowm 90 iteration 2 VM 018 time taken 70
+cooldowm 90 iteration 2 VM 019 time taken 70
+cooldowm 90 iteration 2 VM 020 time taken 70
+cooldowm 90 iteration 2 VM 021 time taken 70
+cooldowm 90 iteration 2 VM 023 time taken 70
+cooldowm 90 iteration 2 VM 024 time taken 60
+cooldowm 90 iteration 2 VM 025 time taken 60
+cooldowm 90 iteration 2 VM 029 time taken 60
+cooldowm 90 iteration 2 VM 030 time taken 60
+cooldowm 90 iteration 2 VM 031 time taken 70
+cooldowm 90 iteration 2 VM 032 time taken 50
+cooldowm 90 iteration 2 VM 037 time taken 60
+cooldowm 90 iteration 2 VM 038 time taken 60
+cooldowm 90 iteration 2 VM 039 time taken 70
+cooldowm 90 iteration 2 VM 041 time taken 70
+cooldowm 90 iteration 2 VM 042 time taken 60
+cooldowm 90 iteration 2 VM 043 time taken 60
+cooldowm 90 iteration 2 VM 044 time taken 70
+cooldowm 90 iteration 2 VM 045 time taken 70
+cooldowm 90 iteration 2 VM 046 time taken 70
+cooldowm 90 iteration 2 VM 047 time taken 70
+cooldowm 90 iteration 2 VM 048 time taken 60
+cooldowm 90 iteration 2 VM 050 time taken 60
+completed cooldown iteration 2
+cooldowm 90 iteration 3 VM 002 time taken 60
+cooldowm 90 iteration 3 VM 003 time taken 70
+cooldowm 90 iteration 3 VM 004 time taken 60
+cooldowm 90 iteration 3 VM 005 time taken 70
+cooldowm 90 iteration 3 VM 006 time taken 70
+cooldowm 90 iteration 3 VM 007 time taken 60
+cooldowm 90 iteration 3 VM 009 time taken 60
+cooldowm 90 iteration 3 VM 010 time taken 50
+cooldowm 90 iteration 3 VM 011 Base time taken 70
+cooldowm 90 iteration 3 VM 012 time taken 70
+cooldowm 90 iteration 3 VM 013 time taken 60
+cooldowm 90 iteration 3 VM 014 time taken 70
+cooldowm 90 iteration 3 VM 015 time taken 60
+cooldowm 90 iteration 3 VM 016 time taken 70
+cooldowm 90 iteration 3 VM 017 time taken 60
+cooldowm 90 iteration 3 VM 018 time taken 50
+cooldowm 90 iteration 3 VM 019 time taken 50
+cooldowm 90 iteration 3 VM 020 time taken 60
+cooldowm 90 iteration 3 VM 021 time taken 70
+cooldowm 90 iteration 3 VM 023 time taken 60
+cooldowm 90 iteration 3 VM 024 time taken 60
+cooldowm 90 iteration 3 VM 025 time taken 60
+cooldowm 90 iteration 3 VM 029 time taken 60
+cooldowm 90 iteration 3 VM 030 time taken 60
+cooldowm 90 iteration 3 VM 031 time taken 60
+cooldowm 90 iteration 3 VM 032 time taken 70
+cooldowm 90 iteration 3 VM 037 time taken 60
+cooldowm 90 iteration 3 VM 038 time taken 60
+cooldowm 90 iteration 3 VM 039 time taken 70
+cooldowm 90 iteration 3 VM 041 time taken 70
+cooldowm 90 iteration 3 VM 042 time taken 60
+cooldowm 90 iteration 3 VM 043 time taken 60
+cooldowm 90 iteration 3 VM 044 time taken 60
+cooldowm 90 iteration 3 VM 045 time taken 70
+cooldowm 90 iteration 3 VM 046 time taken 70
+cooldowm 90 iteration 3 VM 047 time taken 60
+cooldowm 90 iteration 3 VM 048 time taken 70
+cooldowm 90 iteration 3 VM 050 time taken 60
+completed cooldown iteration 3
+cooldowm 90 iteration 4 VM 002 time taken 60
+cooldowm 90 iteration 4 VM 003 time taken 50
+cooldowm 90 iteration 4 VM 004 time taken 60
+cooldowm 90 iteration 4 VM 005 time taken 60
+cooldowm 90 iteration 4 VM 006 time taken 70
+cooldowm 90 iteration 4 VM 007 time taken 70
+cooldowm 90 iteration 4 VM 009 time taken 60
+cooldowm 90 iteration 4 VM 010 time taken 70
+cooldowm 90 iteration 4 VM 011 Base time taken 60
+cooldowm 90 iteration 4 VM 012 time taken 60
+cooldowm 90 iteration 4 VM 013 time taken 70
+cooldowm 90 iteration 4 VM 014 time taken 60
+cooldowm 90 iteration 4 VM 015 time taken 50
+cooldowm 90 iteration 4 VM 016 time taken 60
+cooldowm 90 iteration 4 VM 017 time taken 70
+cooldowm 90 iteration 4 VM 018 time taken 60
+cooldowm 90 iteration 4 VM 019 time taken 60
+cooldowm 90 iteration 4 VM 020 time taken 60
+cooldowm 90 iteration 4 VM 021 time taken 60
+cooldowm 90 iteration 4 VM 023 time taken 60
+cooldowm 90 iteration 4 VM 024 time taken 70
+cooldowm 90 iteration 4 VM 025 time taken 60
+cooldowm 90 iteration 4 VM 029 time taken 60
+cooldowm 90 iteration 4 VM 030 time taken 60
+cooldowm 90 iteration 4 VM 031 time taken 60
+cooldowm 90 iteration 4 VM 032 time taken 70
+cooldowm 90 iteration 4 VM 037 time taken 60
+cooldowm 90 iteration 4 VM 038 time taken 60
+cooldowm 90 iteration 4 VM 039 time taken 60
+cooldowm 90 iteration 4 VM 041 time taken 70
+cooldowm 90 iteration 4 VM 042 time taken 60
+cooldowm 90 iteration 4 VM 043 time taken 80
+cooldowm 90 iteration 4 VM 044 time taken 70
+cooldowm 90 iteration 4 VM 045 time taken 60
+cooldowm 90 iteration 4 VM 046 time taken 70
+cooldowm 90 iteration 4 VM 047 time taken 70
+cooldowm 90 iteration 4 VM 048 time taken 60
+cooldowm 90 iteration 4 VM 050 time taken 60
+completed cooldown iteration 4
+cooldowm 90 iteration 5 VM 002 time taken 70
+cooldowm 90 iteration 5 VM 003 time taken 60
+cooldowm 90 iteration 5 VM 004 time taken 60
+cooldowm 90 iteration 5 VM 005 time taken 60
+cooldowm 90 iteration 5 VM 006 time taken 60
+cooldowm 90 iteration 5 VM 007 time taken 70
+cooldowm 90 iteration 5 VM 009 time taken 70
+cooldowm 90 iteration 5 VM 010 time taken 70
+cooldowm 90 iteration 5 VM 011 Base time taken 70
+cooldowm 90 iteration 5 VM 012 time taken 60
+cooldowm 90 iteration 5 VM 013 time taken 60
+cooldowm 90 iteration 5 VM 014 time taken 60
+cooldowm 90 iteration 5 VM 015 time taken 60
+cooldowm 90 iteration 5 VM 016 time taken 70
+Error running VM 017
+cooldowm 90 iteration 5 VM 018 time taken 50
+cooldowm 90 iteration 5 VM 019 time taken 60
+cooldowm 90 iteration 5 VM 020 time taken 70
+cooldowm 90 iteration 5 VM 021 time taken 60
+cooldowm 90 iteration 5 VM 023 time taken 60
+cooldowm 90 iteration 5 VM 024 time taken 60
+cooldowm 90 iteration 5 VM 025 time taken 60
+cooldowm 90 iteration 5 VM 029 time taken 60
+cooldowm 90 iteration 5 VM 030 time taken 60
+cooldowm 90 iteration 5 VM 031 time taken 60
+cooldowm 90 iteration 5 VM 032 time taken 60
+cooldowm 90 iteration 5 VM 037 time taken 60
+cooldowm 90 iteration 5 VM 038 time taken 60
+cooldowm 90 iteration 5 VM 039 time taken 60
+cooldowm 90 iteration 5 VM 041 time taken 70
+Error running VM 042
+cooldowm 90 iteration 5 VM 043 time taken 60
+cooldowm 90 iteration 5 VM 044 time taken 70
+cooldowm 90 iteration 5 VM 045 time taken 60
+cooldowm 90 iteration 5 VM 046 time taken 60
+cooldowm 90 iteration 5 VM 047 time taken 60
+cooldowm 90 iteration 5 VM 048 time taken 70
+cooldowm 90 iteration 5 VM 050 time taken 50
+completed cooldown iteration 5
+cooldowm 90 iteration 6 VM 002 time taken 60
+cooldowm 90 iteration 6 VM 003 time taken 60
+cooldowm 90 iteration 6 VM 004 time taken 60
+cooldowm 90 iteration 6 VM 005 time taken 60
+cooldowm 90 iteration 6 VM 006 time taken 60
+cooldowm 90 iteration 6 VM 007 time taken 60
+Error running VM 009
+cooldowm 90 iteration 6 VM 010 time taken 60
+cooldowm 90 iteration 6 VM 011 Base time taken 70
+cooldowm 90 iteration 6 VM 012 time taken 60
+cooldowm 90 iteration 6 VM 013 time taken 60
+cooldowm 90 iteration 6 VM 014 time taken 60
+cooldowm 90 iteration 6 VM 015 time taken 60
+cooldowm 90 iteration 6 VM 016 time taken 50
+cooldowm 90 iteration 6 VM 018 time taken 50
+cooldowm 90 iteration 6 VM 019 time taken 60
+cooldowm 90 iteration 6 VM 020 time taken 60
+cooldowm 90 iteration 6 VM 021 time taken 60
+cooldowm 90 iteration 6 VM 023 time taken 60
+cooldowm 90 iteration 6 VM 024 time taken 50
+cooldowm 90 iteration 6 VM 025 time taken 60
+cooldowm 90 iteration 6 VM 029 time taken 60
+cooldowm 90 iteration 6 VM 030 time taken 60
+cooldowm 90 iteration 6 VM 031 time taken 60
+cooldowm 90 iteration 6 VM 032 time taken 60
+cooldowm 90 iteration 6 VM 037 time taken 60
+cooldowm 90 iteration 6 VM 038 time taken 60
+cooldowm 90 iteration 6 VM 039 time taken 60
+cooldowm 90 iteration 6 VM 041 time taken 70
+cooldowm 90 iteration 6 VM 043 time taken 70
+cooldowm 90 iteration 6 VM 044 time taken 70
+cooldowm 90 iteration 6 VM 045 time taken 60
+cooldowm 90 iteration 6 VM 046 time taken 70
+cooldowm 90 iteration 6 VM 047 time taken 60
+cooldowm 90 iteration 6 VM 048 time taken 60
+cooldowm 90 iteration 6 VM 050 time taken 50
+completed cooldown iteration 6
+cooldowm 90 iteration 7 VM 002 time taken 50
+cooldowm 90 iteration 7 VM 003 time taken 50
+cooldowm 90 iteration 7 VM 004 time taken 60
+cooldowm 90 iteration 7 VM 005 time taken 60
+cooldowm 90 iteration 7 VM 006 time taken 60
+cooldowm 90 iteration 7 VM 007 time taken 60
+cooldowm 90 iteration 7 VM 010 time taken 60
+cooldowm 90 iteration 7 VM 011 Base time taken 60
+cooldowm 90 iteration 7 VM 012 time taken 60
+cooldowm 90 iteration 7 VM 013 time taken 60
+cooldowm 90 iteration 7 VM 014 time taken 60
+cooldowm 90 iteration 7 VM 015 time taken 60
+cooldowm 90 iteration 7 VM 016 time taken 60
+cooldowm 90 iteration 7 VM 018 time taken 60
+cooldowm 90 iteration 7 VM 019 time taken 70
+cooldowm 90 iteration 7 VM 020 time taken 60
+cooldowm 90 iteration 7 VM 021 time taken 50
+cooldowm 90 iteration 7 VM 023 time taken 60
+cooldowm 90 iteration 7 VM 024 time taken 60
+cooldowm 90 iteration 7 VM 025 time taken 70
+cooldowm 90 iteration 7 VM 029 time taken 70
+cooldowm 90 iteration 7 VM 030 time taken 50
+cooldowm 90 iteration 7 VM 031 time taken 60
+cooldowm 90 iteration 7 VM 032 time taken 60
+cooldowm 90 iteration 7 VM 037 time taken 70
+cooldowm 90 iteration 7 VM 038 time taken 60
+cooldowm 90 iteration 7 VM 039 time taken 60
+cooldowm 90 iteration 7 VM 041 time taken 60
+cooldowm 90 iteration 7 VM 043 time taken 60
+cooldowm 90 iteration 7 VM 044 time taken 60
+cooldowm 90 iteration 7 VM 045 time taken 60
+cooldowm 90 iteration 7 VM 046 time taken 60
+cooldowm 90 iteration 7 VM 047 time taken 70
+cooldowm 90 iteration 7 VM 048 time taken 70
+cooldowm 90 iteration 7 VM 050 time taken 60
+completed cooldown iteration 7
+cooldowm 90 iteration 8 VM 002 time taken 70
+cooldowm 90 iteration 8 VM 003 time taken 70
+cooldowm 90 iteration 8 VM 004 time taken 60
+cooldowm 90 iteration 8 VM 005 time taken 60
+cooldowm 90 iteration 8 VM 006 time taken 60
+cooldowm 90 iteration 8 VM 007 time taken 60
+cooldowm 90 iteration 8 VM 010 time taken 70
+cooldowm 90 iteration 8 VM 011 Base time taken 60
+cooldowm 90 iteration 8 VM 012 time taken 60
+cooldowm 90 iteration 8 VM 013 time taken 60
+cooldowm 90 iteration 8 VM 014 time taken 70
+cooldowm 90 iteration 8 VM 015 time taken 60
+cooldowm 90 iteration 8 VM 016 time taken 70
+cooldowm 90 iteration 8 VM 018 time taken 60
+cooldowm 90 iteration 8 VM 019 time taken 60
+cooldowm 90 iteration 8 VM 020 time taken 50
+cooldowm 90 iteration 8 VM 021 time taken 70
+cooldowm 90 iteration 8 VM 023 time taken 70
+cooldowm 90 iteration 8 VM 024 time taken 70
+cooldowm 90 iteration 8 VM 025 time taken 70
+cooldowm 90 iteration 8 VM 029 time taken 70
+cooldowm 90 iteration 8 VM 030 time taken 60
+cooldowm 90 iteration 8 VM 031 time taken 60
+cooldowm 90 iteration 8 VM 032 time taken 60
+cooldowm 90 iteration 8 VM 037 time taken 70
+cooldowm 90 iteration 8 VM 038 time taken 60
+cooldowm 90 iteration 8 VM 039 time taken 60
+cooldowm 90 iteration 8 VM 041 time taken 60
+cooldowm 90 iteration 8 VM 043 time taken 70
+cooldowm 90 iteration 8 VM 044 time taken 50
+cooldowm 90 iteration 8 VM 045 time taken 60
+cooldowm 90 iteration 8 VM 046 time taken 60
+cooldowm 90 iteration 8 VM 047 time taken 70
+cooldowm 90 iteration 8 VM 048 time taken 60
+cooldowm 90 iteration 8 VM 050 time taken 60
+completed cooldown iteration 8
+restarting error VMs
+['VM 035', 'VM 017', 'VM 042', 'VM 009']
+verifying Error VM 035
+search completed
+NO ERROR IN VM 035
+saved VM 035
+verifying Error VM 017
+Error running VM 017
+powered down VM 017
+Started VM 017
+opened edge and ran script
+Error restarting VM 017
+powered down VM 017
+Started VM 017
+opened edge and ran script
+completed restart test VM 017 time taken 60
+saved VM 017
+
+2024-04-23
+
+restarting error VMs
+['VM 017', 'VM 042', 'VM 009']
+verifying Error VM 017
+NO ERROR IN VM 017
+saved VM 017
+verifying Error VM 042
+Error running VM 042
+powered down VM 042
+Started VM 042
+opened edge and ran script
+Error restarting VM 042
+powered down VM 042
+Started VM 042
+opened edge and ran script
+completed restart test VM 042 time taken 80
+saved VM 042
+
+2024-04-23
+
+restarting error VMs
+['VM 042', 'VM 009']
+verifying Error VM 042
+NO ERROR IN VM 042
+saved VM 042
+verifying Error VM 009
+Error running VM 009
+powered down VM 009
+Started VM 009
+opened edge and ran script
+completed restart test VM 009 time taken 70
+saved VM 009
+
+2024-04-24
+
+completed normal 90 VM 001 time taken 450
+completed normal 90 VM 008 time taken 430
+completed normal 90 VM 026 time taken 450
+completed normal 90 VM 027 time taken 440
+completed normal 90 VM 028 time taken 450
+completed normal 90 VM 033 time taken 450
+completed normal 90 VM 034 time taken 450
+completed normal 90 VM 036 time taken 490
+completed normal 90 VM 040 time taken 470
+completed normal 90 VM 049 time taken 450
+cooldowm 90 iteration 0 VM 002 time taken 70
+cooldowm 90 iteration 0 VM 003 time taken 60
+Error running VM 004
+cooldowm 90 iteration 0 VM 005 time taken 60
+cooldowm 90 iteration 0 VM 006 time taken 60
+cooldowm 90 iteration 0 VM 007 time taken 50
+cooldowm 90 iteration 0 VM 009 time taken 60
+cooldowm 90 iteration 0 VM 010 time taken 70
+cooldowm 90 iteration 0 VM 011 Base time taken 70
+cooldowm 90 iteration 0 VM 012 time taken 70
+cooldowm 90 iteration 0 VM 013 time taken 60
+cooldowm 90 iteration 0 VM 014 time taken 70
+cooldowm 90 iteration 0 VM 015 time taken 60
+cooldowm 90 iteration 0 VM 016 time taken 60
+cooldowm 90 iteration 0 VM 017 time taken 60
+cooldowm 90 iteration 0 VM 018 time taken 60
+cooldowm 90 iteration 0 VM 019 time taken 70
+cooldowm 90 iteration 0 VM 020 time taken 70
+cooldowm 90 iteration 0 VM 021 time taken 70
+cooldowm 90 iteration 0 VM 023 time taken 70
+cooldowm 90 iteration 0 VM 024 time taken 60
+cooldowm 90 iteration 0 VM 025 time taken 60
+cooldowm 90 iteration 0 VM 029 time taken 60
+cooldowm 90 iteration 0 VM 030 time taken 70
+cooldowm 90 iteration 0 VM 031 time taken 70
+cooldowm 90 iteration 0 VM 032 time taken 70
+cooldowm 90 iteration 0 VM 035 time taken 70
+cooldowm 90 iteration 0 VM 037 time taken 70
+cooldowm 90 iteration 0 VM 038 time taken 60
+cooldowm 90 iteration 0 VM 039 time taken 60
+cooldowm 90 iteration 0 VM 041 time taken 60
+cooldowm 90 iteration 0 VM 042 time taken 60
+cooldowm 90 iteration 0 VM 043 time taken 70
+cooldowm 90 iteration 0 VM 044 time taken 60
+cooldowm 90 iteration 0 VM 045 time taken 70
+cooldowm 90 iteration 0 VM 046 time taken 80
+cooldowm 90 iteration 0 VM 047 time taken 70
+cooldowm 90 iteration 0 VM 048 time taken 50
+cooldowm 90 iteration 0 VM 050 time taken 70
+completed cooldown iteration 0
+cooldowm 90 iteration 1 VM 002 time taken 70
+cooldowm 90 iteration 1 VM 003 time taken 70
+cooldowm 90 iteration 1 VM 005 time taken 60
+cooldowm 90 iteration 1 VM 006 time taken 60
+cooldowm 90 iteration 1 VM 007 time taken 60
+cooldowm 90 iteration 1 VM 009 time taken 60
+cooldowm 90 iteration 1 VM 010 time taken 60
+cooldowm 90 iteration 1 VM 011 Base time taken 70
+cooldowm 90 iteration 1 VM 012 time taken 60
+cooldowm 90 iteration 1 VM 013 time taken 60
+cooldowm 90 iteration 1 VM 014 time taken 60
+cooldowm 90 iteration 1 VM 015 time taken 60
+cooldowm 90 iteration 1 VM 016 time taken 70
+cooldowm 90 iteration 1 VM 017 time taken 70
+cooldowm 90 iteration 1 VM 018 time taken 70
+cooldowm 90 iteration 1 VM 019 time taken 80
+cooldowm 90 iteration 1 VM 020 time taken 60
+cooldowm 90 iteration 1 VM 021 time taken 70
+cooldowm 90 iteration 1 VM 023 time taken 60
+cooldowm 90 iteration 1 VM 024 time taken 60
+cooldowm 90 iteration 1 VM 025 time taken 60
+cooldowm 90 iteration 1 VM 029 time taken 60
+cooldowm 90 iteration 1 VM 030 time taken 60
+cooldowm 90 iteration 1 VM 031 time taken 70
+cooldowm 90 iteration 1 VM 032 time taken 60
+cooldowm 90 iteration 1 VM 035 time taken 60
+cooldowm 90 iteration 1 VM 037 time taken 50
+cooldowm 90 iteration 1 VM 038 time taken 70
+cooldowm 90 iteration 1 VM 039 time taken 70
+cooldowm 90 iteration 1 VM 041 time taken 60
+Error running VM 042
+cooldowm 90 iteration 1 VM 043 time taken 70
+cooldowm 90 iteration 1 VM 044 time taken 60
+cooldowm 90 iteration 1 VM 045 time taken 60
+cooldowm 90 iteration 1 VM 046 time taken 70
+cooldowm 90 iteration 1 VM 047 time taken 60
+cooldowm 90 iteration 1 VM 048 time taken 60
+cooldowm 90 iteration 1 VM 050 time taken 60
+completed cooldown iteration 1
+cooldowm 90 iteration 2 VM 002 time taken 70
+cooldowm 90 iteration 2 VM 003 time taken 70
+cooldowm 90 iteration 2 VM 005 time taken 70
+cooldowm 90 iteration 2 VM 006 time taken 70
+cooldowm 90 iteration 2 VM 007 time taken 60
+cooldowm 90 iteration 2 VM 009 time taken 70
+cooldowm 90 iteration 2 VM 010 time taken 60
+Error running VM 011 Base
+cooldowm 90 iteration 2 VM 012 time taken 70
+cooldowm 90 iteration 2 VM 013 time taken 60
+cooldowm 90 iteration 2 VM 014 time taken 60
+cooldowm 90 iteration 2 VM 015 time taken 70
+cooldowm 90 iteration 2 VM 016 time taken 50
+cooldowm 90 iteration 2 VM 017 time taken 80
+cooldowm 90 iteration 2 VM 018 time taken 70
+cooldowm 90 iteration 2 VM 019 time taken 70
+cooldowm 90 iteration 2 VM 020 time taken 60
+cooldowm 90 iteration 2 VM 021 time taken 60
+cooldowm 90 iteration 2 VM 023 time taken 50
+cooldowm 90 iteration 2 VM 024 time taken 60
+cooldowm 90 iteration 2 VM 025 time taken 50
+cooldowm 90 iteration 2 VM 029 time taken 60
+cooldowm 90 iteration 2 VM 030 time taken 70
+cooldowm 90 iteration 2 VM 031 time taken 60
+cooldowm 90 iteration 2 VM 032 time taken 60
+cooldowm 90 iteration 2 VM 035 time taken 70
+Error running VM 037
+cooldowm 90 iteration 2 VM 038 time taken 60
+cooldowm 90 iteration 2 VM 039 time taken 60
+cooldowm 90 iteration 2 VM 041 time taken 60
+cooldowm 90 iteration 2 VM 043 time taken 60
+cooldowm 90 iteration 2 VM 044 time taken 60
+cooldowm 90 iteration 2 VM 045 time taken 70
+cooldowm 90 iteration 2 VM 046 time taken 70
+cooldowm 90 iteration 2 VM 047 time taken 60
+cooldowm 90 iteration 2 VM 048 time taken 60
+cooldowm 90 iteration 2 VM 050 time taken 60
+completed cooldown iteration 2
+cooldowm 90 iteration 3 VM 002 time taken 60
+cooldowm 90 iteration 3 VM 003 time taken 50
+cooldowm 90 iteration 3 VM 005 time taken 70
+cooldowm 90 iteration 3 VM 006 time taken 70
+cooldowm 90 iteration 3 VM 007 time taken 60
+cooldowm 90 iteration 3 VM 009 time taken 60
+cooldowm 90 iteration 3 VM 010 time taken 60
+cooldowm 90 iteration 3 VM 012 time taken 50
+cooldowm 90 iteration 3 VM 013 time taken 60
+cooldowm 90 iteration 3 VM 014 time taken 70
+cooldowm 90 iteration 3 VM 015 time taken 80
+cooldowm 90 iteration 3 VM 016 time taken 60
+cooldowm 90 iteration 3 VM 017 time taken 70
+cooldowm 90 iteration 3 VM 018 time taken 50
+cooldowm 90 iteration 3 VM 019 time taken 60
+cooldowm 90 iteration 3 VM 020 time taken 60
+cooldowm 90 iteration 3 VM 021 time taken 70
+cooldowm 90 iteration 3 VM 023 time taken 70
+cooldowm 90 iteration 3 VM 024 time taken 60
+cooldowm 90 iteration 3 VM 025 time taken 70
+cooldowm 90 iteration 3 VM 029 time taken 80
+cooldowm 90 iteration 3 VM 030 time taken 70
+cooldowm 90 iteration 3 VM 031 time taken 60
+cooldowm 90 iteration 3 VM 032 time taken 70
+cooldowm 90 iteration 3 VM 035 time taken 60
+cooldowm 90 iteration 3 VM 038 time taken 60
+cooldowm 90 iteration 3 VM 039 time taken 60
+cooldowm 90 iteration 3 VM 041 time taken 70
+cooldowm 90 iteration 3 VM 043 time taken 60
+cooldowm 90 iteration 3 VM 044 time taken 60
+cooldowm 90 iteration 3 VM 045 time taken 70
+cooldowm 90 iteration 3 VM 046 time taken 60
+cooldowm 90 iteration 3 VM 047 time taken 60
+cooldowm 90 iteration 3 VM 048 time taken 60
+cooldowm 90 iteration 3 VM 050 time taken 70
+completed cooldown iteration 3
+cooldowm 90 iteration 4 VM 002 time taken 70
+cooldowm 90 iteration 4 VM 003 time taken 70
+cooldowm 90 iteration 4 VM 005 time taken 70
+cooldowm 90 iteration 4 VM 006 time taken 60
+cooldowm 90 iteration 4 VM 007 time taken 60
+cooldowm 90 iteration 4 VM 009 time taken 70
+cooldowm 90 iteration 4 VM 010 time taken 50
+cooldowm 90 iteration 4 VM 012 time taken 70
+cooldowm 90 iteration 4 VM 013 time taken 60
+cooldowm 90 iteration 4 VM 014 time taken 70
+cooldowm 90 iteration 4 VM 015 time taken 60
+cooldowm 90 iteration 4 VM 016 time taken 60
+Error running VM 017
+cooldowm 90 iteration 4 VM 018 time taken 60
+cooldowm 90 iteration 4 VM 019 time taken 60
+cooldowm 90 iteration 4 VM 020 time taken 70
+cooldowm 90 iteration 4 VM 021 time taken 60
+cooldowm 90 iteration 4 VM 023 time taken 60
+cooldowm 90 iteration 4 VM 024 time taken 70
+cooldowm 90 iteration 4 VM 025 time taken 70
+cooldowm 90 iteration 4 VM 029 time taken 60
+cooldowm 90 iteration 4 VM 030 time taken 70
+cooldowm 90 iteration 4 VM 031 time taken 70
+cooldowm 90 iteration 4 VM 032 time taken 70
+cooldowm 90 iteration 4 VM 035 time taken 70
+cooldowm 90 iteration 4 VM 038 time taken 50
+cooldowm 90 iteration 4 VM 039 time taken 50
+cooldowm 90 iteration 4 VM 041 time taken 60
+cooldowm 90 iteration 4 VM 043 time taken 60
+cooldowm 90 iteration 4 VM 044 time taken 60
+cooldowm 90 iteration 4 VM 045 time taken 60
+cooldowm 90 iteration 4 VM 046 time taken 60
+cooldowm 90 iteration 4 VM 047 time taken 60
+cooldowm 90 iteration 4 VM 048 time taken 60
+cooldowm 90 iteration 4 VM 050 time taken 70
+completed cooldown iteration 4
+cooldowm 90 iteration 5 VM 002 time taken 70
+cooldowm 90 iteration 5 VM 003 time taken 60
+cooldowm 90 iteration 5 VM 005 time taken 70
+cooldowm 90 iteration 5 VM 006 time taken 70
+cooldowm 90 iteration 5 VM 007 time taken 70
+cooldowm 90 iteration 5 VM 009 time taken 70
+cooldowm 90 iteration 5 VM 010 time taken 60
+cooldowm 90 iteration 5 VM 012 time taken 60
+cooldowm 90 iteration 5 VM 013 time taken 80
+cooldowm 90 iteration 5 VM 014 time taken 60
+cooldowm 90 iteration 5 VM 015 time taken 70
+cooldowm 90 iteration 5 VM 016 time taken 60
+cooldowm 90 iteration 5 VM 018 time taken 60
+cooldowm 90 iteration 5 VM 019 time taken 60
+cooldowm 90 iteration 5 VM 020 time taken 70
+cooldowm 90 iteration 5 VM 021 time taken 70
+cooldowm 90 iteration 5 VM 023 time taken 60
+cooldowm 90 iteration 5 VM 024 time taken 60
+cooldowm 90 iteration 5 VM 025 time taken 70
+cooldowm 90 iteration 5 VM 029 time taken 70
+cooldowm 90 iteration 5 VM 030 time taken 70
+cooldowm 90 iteration 5 VM 031 time taken 60
+Error running VM 032
+cooldowm 90 iteration 5 VM 035 time taken 70
+cooldowm 90 iteration 5 VM 038 time taken 60
+cooldowm 90 iteration 5 VM 039 time taken 60
+cooldowm 90 iteration 5 VM 041 time taken 60
+cooldowm 90 iteration 5 VM 043 time taken 60
+cooldowm 90 iteration 5 VM 044 time taken 60
+cooldowm 90 iteration 5 VM 045 time taken 60
+cooldowm 90 iteration 5 VM 046 time taken 60
+cooldowm 90 iteration 5 VM 047 time taken 60
+cooldowm 90 iteration 5 VM 048 time taken 70
+cooldowm 90 iteration 5 VM 050 time taken 60
+completed cooldown iteration 5
+cooldowm 90 iteration 6 VM 002 time taken 60
+cooldowm 90 iteration 6 VM 003 time taken 60
+cooldowm 90 iteration 6 VM 005 time taken 70
+cooldowm 90 iteration 6 VM 006 time taken 70
+cooldowm 90 iteration 6 VM 007 time taken 60
+cooldowm 90 iteration 6 VM 009 time taken 70
+cooldowm 90 iteration 6 VM 010 time taken 60
+cooldowm 90 iteration 6 VM 012 time taken 60
+cooldowm 90 iteration 6 VM 013 time taken 60
+cooldowm 90 iteration 6 VM 014 time taken 60
+cooldowm 90 iteration 6 VM 015 time taken 60
+cooldowm 90 iteration 6 VM 016 time taken 60
+cooldowm 90 iteration 6 VM 018 time taken 60
+cooldowm 90 iteration 6 VM 019 time taken 60
+cooldowm 90 iteration 6 VM 020 time taken 70
+cooldowm 90 iteration 6 VM 021 time taken 60
+cooldowm 90 iteration 6 VM 023 time taken 60
+cooldowm 90 iteration 6 VM 024 time taken 60
+cooldowm 90 iteration 6 VM 025 time taken 50
+cooldowm 90 iteration 6 VM 029 time taken 60
+cooldowm 90 iteration 6 VM 030 time taken 60
+cooldowm 90 iteration 6 VM 031 time taken 70
+cooldowm 90 iteration 6 VM 035 time taken 70
+cooldowm 90 iteration 6 VM 038 time taken 70
+cooldowm 90 iteration 6 VM 039 time taken 60
+cooldowm 90 iteration 6 VM 041 time taken 60
+cooldowm 90 iteration 6 VM 043 time taken 70
+cooldowm 90 iteration 6 VM 044 time taken 60
+cooldowm 90 iteration 6 VM 045 time taken 70
+cooldowm 90 iteration 6 VM 046 time taken 80
+cooldowm 90 iteration 6 VM 047 time taken 70
+cooldowm 90 iteration 6 VM 048 time taken 60
+cooldowm 90 iteration 6 VM 050 time taken 60
+completed cooldown iteration 6
+cooldowm 90 iteration 7 VM 002 time taken 70
+cooldowm 90 iteration 7 VM 003 time taken 70
+cooldowm 90 iteration 7 VM 005 time taken 70
+cooldowm 90 iteration 7 VM 006 time taken 60
+cooldowm 90 iteration 7 VM 007 time taken 60
+cooldowm 90 iteration 7 VM 009 time taken 70
+cooldowm 90 iteration 7 VM 010 time taken 60
+cooldowm 90 iteration 7 VM 012 time taken 60
+cooldowm 90 iteration 7 VM 013 time taken 60
+cooldowm 90 iteration 7 VM 014 time taken 60
+cooldowm 90 iteration 7 VM 015 time taken 70
+cooldowm 90 iteration 7 VM 016 time taken 70
+cooldowm 90 iteration 7 VM 018 time taken 60
+cooldowm 90 iteration 7 VM 019 time taken 60
+cooldowm 90 iteration 7 VM 020 time taken 60
+cooldowm 90 iteration 7 VM 021 time taken 60
+cooldowm 90 iteration 7 VM 023 time taken 60
+cooldowm 90 iteration 7 VM 024 time taken 70
+cooldowm 90 iteration 7 VM 025 time taken 70
+cooldowm 90 iteration 7 VM 029 time taken 70
+cooldowm 90 iteration 7 VM 030 time taken 50
+cooldowm 90 iteration 7 VM 031 time taken 60
+cooldowm 90 iteration 7 VM 035 time taken 70
+cooldowm 90 iteration 7 VM 038 time taken 60
+cooldowm 90 iteration 7 VM 039 time taken 60
+cooldowm 90 iteration 7 VM 041 time taken 60
+cooldowm 90 iteration 7 VM 043 time taken 60
+cooldowm 90 iteration 7 VM 044 time taken 60
+cooldowm 90 iteration 7 VM 045 time taken 60
+cooldowm 90 iteration 7 VM 046 time taken 70
+cooldowm 90 iteration 7 VM 047 time taken 60
+cooldowm 90 iteration 7 VM 048 time taken 60
+cooldowm 90 iteration 7 VM 050 time taken 70
+completed cooldown iteration 7
+cooldowm 90 iteration 8 VM 002 time taken 60
+cooldowm 90 iteration 8 VM 003 time taken 70
+cooldowm 90 iteration 8 VM 005 time taken 60
+cooldowm 90 iteration 8 VM 006 time taken 70
+cooldowm 90 iteration 8 VM 007 time taken 70
+cooldowm 90 iteration 8 VM 009 time taken 70
+cooldowm 90 iteration 8 VM 010 time taken 60
+cooldowm 90 iteration 8 VM 012 time taken 70
+cooldowm 90 iteration 8 VM 013 time taken 60
+cooldowm 90 iteration 8 VM 014 time taken 60
+cooldowm 90 iteration 8 VM 015 time taken 70
+cooldowm 90 iteration 8 VM 016 time taken 50
+cooldowm 90 iteration 8 VM 018 time taken 60
+cooldowm 90 iteration 8 VM 019 time taken 60
+cooldowm 90 iteration 8 VM 020 time taken 50
+cooldowm 90 iteration 8 VM 021 time taken 60
+cooldowm 90 iteration 8 VM 023 time taken 60
+cooldowm 90 iteration 8 VM 024 time taken 70
+cooldowm 90 iteration 8 VM 025 time taken 70
+cooldowm 90 iteration 8 VM 029 time taken 60
+cooldowm 90 iteration 8 VM 030 time taken 70
+cooldowm 90 iteration 8 VM 031 time taken 60
+cooldowm 90 iteration 8 VM 035 time taken 70
+cooldowm 90 iteration 8 VM 038 time taken 60
+cooldowm 90 iteration 8 VM 039 time taken 60
+cooldowm 90 iteration 8 VM 041 time taken 60
+cooldowm 90 iteration 8 VM 043 time taken 70
+cooldowm 90 iteration 8 VM 044 time taken 70
+cooldowm 90 iteration 8 VM 045 time taken 60
+cooldowm 90 iteration 8 VM 046 time taken 60
+cooldowm 90 iteration 8 VM 047 time taken 60
+Error running VM 048
+cooldowm 90 iteration 8 VM 050 time taken 60
+completed cooldown iteration 8
+restarting error VMs
+['VM 004', 'VM 042', 'VM 011 Base', 'VM 037', 'VM 017', 'VM 032', 'VM 048']
+verifying Error VM 004
+search completed
+NO ERROR IN VM 004
+saved VM 004
+verifying Error VM 042
+Error running VM 042
+powered down VM 042
+Started VM 042
+opened edge and ran script
+completed restart test VM 042 time taken 70
+saved VM 042
+verifying Error VM 011 Base
+Error running VM 011 Base
+powered down VM 011 Base
+Started VM 011 Base
+opened edge and ran script
+completed restart test VM 011 Base time taken 80
+saved VM 011 Base
+verifying Error VM 037
+Error running VM 037
+powered down VM 037
+Started VM 037
+opened edge and ran script
+Error restarting VM 037
+powered down VM 037
+Started VM 037
+opened edge and ran script
+completed restart test VM 037 time taken 90
+saved VM 037
+
+2024-04-24
+
+restarting error VMs
+['VM 037', 'VM 017', 'VM 032', 'VM 048']
+verifying Error VM 037
+NO ERROR IN VM 037
+saved VM 037
+verifying Error VM 017
+Error running VM 017
+powered down VM 017
+Started VM 017
+opened edge and ran script
+completed restart test VM 017 time taken 80
+saved VM 017
+verifying Error VM 032
+NO ERROR IN VM 032
+saved VM 032
+verifying Error VM 048
+Error running VM 048
+powered down VM 048
+Started VM 048
+opened edge and ran script
+Error restarting VM 048
+powered down VM 048
+Started VM 048
+opened edge and ran script
+completed restart test VM 048 time taken 80
+saved VM 048
+
+2024-04-24
+
+restarting error VMs
+['VM 048']
+verifying Error VM 048
+search completed
+NO ERROR IN VM 048
+saved VM 048
+
+2024-04-25
+
+completed normal 90 VM 001 time taken 470
+completed normal 90 VM 008 time taken 480
+completed normal 90 VM 026 time taken 470
+completed normal 90 VM 027 time taken 440
+completed normal 90 VM 028 time taken 460
+completed normal 90 VM 033 time taken 460
+completed normal 90 VM 034 time taken 450
+completed normal 90 VM 036 time taken 470
+completed normal 90 VM 040 time taken 450
+completed normal 90 VM 049 time taken 460
+cooldowm 90 iteration 0 VM 002 time taken 70
+cooldowm 90 iteration 0 VM 003 time taken 70
+cooldowm 90 iteration 0 VM 004 time taken 50
+cooldowm 90 iteration 0 VM 005 time taken 60
+cooldowm 90 iteration 0 VM 006 time taken 60
+cooldowm 90 iteration 0 VM 007 time taken 70
+cooldowm 90 iteration 0 VM 009 time taken 60
+cooldowm 90 iteration 0 VM 010 time taken 70
+cooldowm 90 iteration 0 VM 011 Base time taken 70
+cooldowm 90 iteration 0 VM 012 time taken 70
+cooldowm 90 iteration 0 VM 013 time taken 60
+cooldowm 90 iteration 0 VM 014 time taken 60
+cooldowm 90 iteration 0 VM 015 time taken 60
+cooldowm 90 iteration 0 VM 016 time taken 70
+cooldowm 90 iteration 0 VM 017 time taken 70
+cooldowm 90 iteration 0 VM 018 time taken 60
+cooldowm 90 iteration 0 VM 019 time taken 60
+cooldowm 90 iteration 0 VM 020 time taken 50
+cooldowm 90 iteration 0 VM 021 time taken 70
+cooldowm 90 iteration 0 VM 023 time taken 60
+cooldowm 90 iteration 0 VM 024 time taken 60
+cooldowm 90 iteration 0 VM 025 time taken 70
+cooldowm 90 iteration 0 VM 029 time taken 60
+cooldowm 90 iteration 0 VM 030 time taken 70
+cooldowm 90 iteration 0 VM 031 time taken 70
+cooldowm 90 iteration 0 VM 032 time taken 60
+cooldowm 90 iteration 0 VM 035 time taken 60
+cooldowm 90 iteration 0 VM 037 time taken 60
+cooldowm 90 iteration 0 VM 038 time taken 60
+cooldowm 90 iteration 0 VM 039 time taken 70
+cooldowm 90 iteration 0 VM 041 time taken 60
+cooldowm 90 iteration 0 VM 042 time taken 60
+cooldowm 90 iteration 0 VM 043 time taken 70
+cooldowm 90 iteration 0 VM 044 time taken 60
+cooldowm 90 iteration 0 VM 045 time taken 50
+cooldowm 90 iteration 0 VM 046 time taken 70
+cooldowm 90 iteration 0 VM 047 time taken 60
+cooldowm 90 iteration 0 VM 048 time taken 60
+cooldowm 90 iteration 0 VM 050 time taken 70
+completed cooldown iteration 0
+cooldowm 90 iteration 1 VM 002 time taken 80
+cooldowm 90 iteration 1 VM 003 time taken 60
+cooldowm 90 iteration 1 VM 004 time taken 60
+cooldowm 90 iteration 1 VM 005 time taken 60
+cooldowm 90 iteration 1 VM 006 time taken 60
+cooldowm 90 iteration 1 VM 007 time taken 60
+cooldowm 90 iteration 1 VM 009 time taken 60
+cooldowm 90 iteration 1 VM 010 time taken 60
+cooldowm 90 iteration 1 VM 011 Base time taken 50
+cooldowm 90 iteration 1 VM 012 time taken 60
+cooldowm 90 iteration 1 VM 013 time taken 70
+cooldowm 90 iteration 1 VM 014 time taken 60
+cooldowm 90 iteration 1 VM 015 time taken 70
+cooldowm 90 iteration 1 VM 016 time taken 60
+cooldowm 90 iteration 1 VM 017 time taken 60
+cooldowm 90 iteration 1 VM 018 time taken 70
+cooldowm 90 iteration 1 VM 019 time taken 70
+cooldowm 90 iteration 1 VM 020 time taken 60
+cooldowm 90 iteration 1 VM 021 time taken 60
+cooldowm 90 iteration 1 VM 023 time taken 70

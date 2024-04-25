@@ -1,0 +1,27 @@
+{
+    "date": "2024-04-25",
+    "current_status": null,
+    "VM_status": "running",
+    "VM_name": "VM 024",
+    "open_browser": 0,
+    "no_of_searches": 4,
+    "show_rewards_page": 0,
+    "take_screenshot": 1,
+    "search_links": [
+        "https://rewards.bing.com"
+    ],
+    "completed_VMs": [
+        "VM 001",
+        "VM 008",
+        "VM 026",
+        "VM 027",
+        "VM 028",
+        "VM 033",
+        "VM 034",
+        "VM 036",
+        "VM 040",
+        "VM 049"
+    ],
+    "error_VMs": [],
+    "cooldown_iteration": 1
+}
